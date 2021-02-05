@@ -1,6 +1,6 @@
 ### I'm Abhishek - aka [abhiabhi2306][website] 👋
 
-[![Website](https://img.shields.io/website?label=abhiabhi2306.github.&style=for-the-badge&url=https%3A%2F%2Fwww.abhiabhi2306.github.io)](https://abhiabhi2306.github.io/)
+[![Website](https://img.shields.io/website?label=abhiabhi2306.github.io&style=for-the-badge&url=https%3A%2F%2Fwww.abhiabhi2306.github.io)](https://abhiabhi2306.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhiabhi2306?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/abhiabhi2306)
 
 ## About Me
