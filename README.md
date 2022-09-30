@@ -6,7 +6,7 @@
 ## About Me
 
 - 🧡  Application Security Researcher @ Team Bi0s
-- 🖥️  Computer Science Undergraduate Student @ Amrita School Of Engineering
+- 🖥️  Computer Science Student @ Amrita School Of Engineering
 - 💎  Acknowledged By Google, Android, Facebook, and 40+ companies for reporting security vulnerabilities.
 - 💫  Loves playing ctfs and creating challenges.
 
